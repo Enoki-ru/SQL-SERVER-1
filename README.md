@@ -1,0 +1,9 @@
+# SQL-SERVER-1
+![sql server1-1](https://user-images.githubusercontent.com/110339199/235304405-7066c9db-631a-4e4c-ba63-5a9455ee6764.png)
+![sql server1-2](https://user-images.githubusercontent.com/110339199/235304406-3038303b-332b-487c-b71f-5f92ab70732c.png)
+![sql server1-3](https://user-images.githubusercontent.com/110339199/235304407-e85b7dc7-2c5e-4cf8-a0ca-f39490a2b25d.png)
+![sql server1-4](https://user-images.githubusercontent.com/110339199/235304408-67ae7c51-3826-4576-9784-1ed2512933c8.png)
+![sql server1-5](https://user-images.githubusercontent.com/110339199/235304409-6178915e-a291-4337-bf92-c334b75ffe51.png)
+![sql server1-6](https://user-images.githubusercontent.com/110339199/235304410-c3fbcc6e-bff5-4e54-9f6f-3b9ddcfc39b4.png)
+![sql server1-7](https://user-images.githubusercontent.com/110339199/235304412-b85cc9bd-ab49-4ace-a306-a73b9c652222.png)
+![sql server1-8](https://user-images.githubusercontent.com/110339199/235304413-d10c8405-8a00-4cae-90da-46c0bf901878.png)
